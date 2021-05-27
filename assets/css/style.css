@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+//*STARTING MENU*//
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,6 +50,8 @@ a {
 p {
     font-size: 16px;
 }
+
+//*ENDING MENU*//
 
 .hero {
     height: 800px;
