@@ -24,7 +24,9 @@ body {
     color: #d9dcd6;
 }
 
-//*STARTING MENU*//
+
+
+/*STARTING MENU*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,9 +52,12 @@ a {
 p {
     font-size: 16px;
 }
+/*ENDING MENU*/
 
-//*ENDING MENU*//
 
+
+
+/*BEGINNING MAIN BANNER*/
 .hero {
     height: 800px;
     width: 100%;
@@ -61,12 +66,20 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*ENDING MAIN BANNER*/
 
+
+
+/*STARTING SEARCH ENGINE OPTIMIZATION (SEO)*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
+/*ENDING SEARCH ENGINE OPTIMIZATION (SEO)*/
 
+
+
+/*STARTING ONLINE MANAGEMENT CONTENT*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -77,6 +90,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*ENDING ONLINE MANAGEMENT CONTENT*/
+
+
 
 .benefits {
     margin-right: 20px;
