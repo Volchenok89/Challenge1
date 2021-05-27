@@ -29,9 +29,6 @@ body {
 }
 
 
-
-
-
 /*STARTING MENU*/
 .header div {
     padding-top: 15px;
@@ -109,7 +106,7 @@ p {
 
 
 
-/*STARTING ONLINE MANAGEMENT CONTENT-*/
+/*STARTING ONLINE REPUTATION MANAGEMENT CONTENT*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -143,11 +140,14 @@ p {
     font-size: 36px;
 }
 
-/*ENDING ONLINE MANAGEMENT CONTENT*/
+/*ENDING ONLINE REPUTATION MANAGEMENT CONTENT*/
 
 
 
-/*STARTING STARTING SOCIAL MEDIA CONTENT*/
+
+
+
+/*STARTING SOCIAL MEDIA MARKETING*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -156,7 +156,28 @@ p {
 p {
     font-size: 16px;
 }
-/*ENDING STARTING SOCIAL MEDIA CONTENT*/
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
+/*ENDING SOCIAL MEDIA CONTENT*/
+
 
 
 
@@ -228,29 +249,7 @@ p {
 
 
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-
-
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/*STARTING FOOTER*/
 
 .footer {
     padding: 30px;
@@ -262,3 +261,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/*ENDING FOOTER*/
