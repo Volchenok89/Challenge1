@@ -13,7 +13,7 @@ A website that offers online marketing training services.
 
 ## Website
 
-https://github.com/Volchenok89/Challenge1.git
+https://volchenok89.github.io/Challenge1/
 
 
 ##Contribution
