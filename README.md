@@ -13,7 +13,7 @@ A website that offers online marketing training services.
 
 ## Website
 
-https://volchenok89.github.io/Challenge1/
+https://volchenok89.github.io/HoriseonOnlineMarketingServices/
 
 
 ##Contribution
